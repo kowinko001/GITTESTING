@@ -1,3 +1,7 @@
 body{
-    background-color: bisque;
+    background-color: rgb(7, 7, 7);
+}
+
+header{
+    background-color: rgb(201, 120, 13);
 }
